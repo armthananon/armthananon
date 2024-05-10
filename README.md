@@ -1,8 +1,9 @@
+# About Me
 - 👋 Hi, I’m thananon, You can call me ARM.
 - 👀 I’m interested in Software Programming.
 - 🌱 I’m currently learning computer engineering at KMITL
 
-# My Certificates
+## My Certificates
 
 - [Problem Solving (Basic) Certificate by hackerrank](https://www.hackerrank.com/certificates/400551d65ee4)
 - [Python (Basic) Certificate by hackerrank](https://www.hackerrank.com/certificates/7416b8885630)
