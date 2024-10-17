@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m thananon, You can call me ARM.
 - 👀 I’m interested in Software Programming.
-- 🌱 I’m currently learning computer engineering at KMITL
+- 🌱 I graduated with a bachelor's degree in Computer Engineering from KMITL
 
 ## My Certificates
 
